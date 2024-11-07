@@ -1,15 +1,14 @@
 ---
 # Leave the homepage title empty to use the site title
 title:
-date: 2022-10-24
+date: 2024-11-06
 type: landing
 
 sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        The Tabbre Project
       image:
         filename: welcome.jpg
       text: |
