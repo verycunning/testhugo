@@ -5,23 +5,20 @@
 
 main:
   - name: Home
-    url: home
+    url: #
     weight: 10
-  - name: Road Map
-    url: roadmap
+  - name: News
+    url: post
     weight: 20
   - name: People
     url: people
     weight: 30
-  - name: Contributing
-    url: contributing
+  - name: Events
+    url: event
     weight: 40
-  - name: FAQs
-    url: faqs
+  - name: Publications
+    url: publication
     weight: 50
-  - name: More Information
-    url: information
-    weight: 60
-  - name: Contact us
+  - name: Contact
     url: contact
-    weight: 70
+    weight: 60

@@ -1,6 +1,6 @@
 ---
 title: Home
-date: 2024-11-06
+date: 2024-11-08
 
 type: landing
 
@@ -9,7 +9,7 @@ sections:
     content:
       slides:
       - title: Tabbre’s mission is to solve the climate crisis and help end global poverty
-        content: Find out how we are doing this ....
+        content: Find out how we're doing this...
         align: center
         background:
           image:
@@ -18,53 +18,28 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-        link:
-          icon: fa-users
-          icon_pack: fas
-          text: Join Us
-          url: ../contact/
-      - title: TABB and BRE
-        content: 'An energy backed cryptocurrency based economy'
+      - title: Oceanic Solar ☕️
+        content: 'Super abundant and cheap clean energy for everyone'
         align: left
         background:
           image:
-            filename: energyIsTheUlimateCurrency.webp
+            filename: contact.jpg
             filters:
               brightness: 0.7
           position: center
           color: '#555'
-        link:
-          icon: fa-users
-          icon_pack: fas
-          text: Join Us
-          url: ../contact/
-      - title: 'Oceanic solar farms to produce all the energy the world needs'
-        content: 'Cheap renwable energy at a global scale'
+      - title: A decentralised global economy
+        content: 'A universal basic income for everyone!'
         align: right
         background:
           image:
-            filename: solarDawn.webp
-            filters:
-              brightness: 0.5
-          position: center
-          color: '#444'
-        link:
-          icon: fa-users
-          icon_pack: fas
-          text: Join Us
-          url: ../contact/
-      - title: 'A global universal basic income'
-        content: 'Helping to end global poverty'
-        align: right
-        background:
-          image:
-            filename: The-climate-crowd.webp
+            filename: energyIsTheUlimateCurrency.webp
             filters:
               brightness: 0.5
           position: center
           color: '#333'
         link:
-          icon: fa-users
+          icon: graduation-cap
           icon_pack: fas
           text: Join Us
           url: ../contact/

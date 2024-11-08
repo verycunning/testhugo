@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Charles Cunningham
 
 # Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+first_name: Charles
+last_name: Cunningham
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Founder & CEO
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: 
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
@@ -44,7 +44,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: 'mailto:charles@tabbre.com'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
@@ -53,7 +53,7 @@ social:
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/verycunning
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -68,10 +68,10 @@ highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-  - Researchers
+#user_groups:
+#  - Researchers
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I founded the Tabbre Project because I believe the only viable solution to the climate crisis is to make renewable energy cheaper and more abundant than fossil fuels.
+Cheap, plentiful, reliable renewable energy is essential for a sustainable, prosperous future.
+My career of over 40 years working in Europe, North America and the UK that included senior business, engineering and IT roles in industries such as blockchain, banking, energy, automotive manufacturing, utilities and central government, has equipped me with the skills and knowledge needed to deliver the Tabbre Project.
