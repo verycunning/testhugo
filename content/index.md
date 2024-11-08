@@ -18,6 +18,11 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
+        link:
+          icon: fa-users
+          icon_pack: fas
+          text: Join Us
+          url: ../contact/
       - title: TABB and BRE
         content: 'An energy backed cryptocurrency based economy'
         align: left
@@ -28,6 +33,11 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
+        link:
+          icon: fa-users
+          icon_pack: fas
+          text: Join Us
+          url: ../contact/
       - title: 'Oceanic solar farms to produce all the energy the world needs'
         content: 'Cheap renwable energy at a global scale'
         align: right
@@ -38,6 +48,11 @@ sections:
               brightness: 0.5
           position: center
           color: '#444'
+        link:
+          icon: fa-users
+          icon_pack: fas
+          text: Join Us
+          url: ../contact/
       - title: 'A global universal basic income'
         content: 'Helping to end global poverty'
         align: right
