@@ -5,26 +5,26 @@
 
 main:
   - name: Home
-    url: home/
+    url: home
     weight: 10
   - name: Road Map
-    url: roadmap/
+    url: roadmap
     weight: 20
   - name: People
-    url: people/
+    url: people
     weight: 30
   - name: Contributing
-    url: contributing/
+    url: contributing
     weight: 40
   - name: FAQs
-    url: faqs/
+    url: faqs
     weight: 50
   - name: More Information
-    url: information/
+    url: information
     weight: 60
   - name: Publications
-    url: publication/
+    url: publication
     weight: 70
   - name: Contact us
-    url: contact/
+    url: contact
     weight: 80
