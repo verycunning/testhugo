@@ -8,7 +8,7 @@ sections:
   - block: slider
     content:
       slides:
-      - title: Content - index.md Tabbre’s mission is to solve the climate crisis and help end global poverty
+      - title: Tabbre’s mission is to solve the climate crisis and help end global poverty
         content: Find out how we are doing this ....
         align: center
         background:
