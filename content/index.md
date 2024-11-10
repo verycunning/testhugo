@@ -1,6 +1,6 @@
 ---
 title: Home
-date: 2022-10-24
+date: 2024-11-08
 
 type: landing
 
@@ -8,7 +8,7 @@ sections:
   - block: slider
     content:
       slides:
-      - title: Tabbre’s mission is to solve the climate crisis and help end global poverty
+      - title: Content - index.md Tabbre’s mission is to solve the climate crisis and help end global poverty
         content: Find out how we are doing this ....
         align: center
         background:
@@ -22,7 +22,7 @@ sections:
           icon: fa-users
           icon_pack: fas
           text: Join Us
-          url: ../contact/
+          url: contact
       - title: TABB and BRE
         content: 'An energy backed cryptocurrency based economy'
         align: left
@@ -73,7 +73,7 @@ sections:
       slide_height: ''
       is_fullscreen: true
       # Automatically transition through slides?
-      loop: false
+      loop: true
       # Duration of transition between slides (in ms)
-      interval: 2000
+      interval: 4000
 ---
