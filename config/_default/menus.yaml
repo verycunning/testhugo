@@ -4,27 +4,27 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Home
-    url: home
+  - name: About Tabbre
+    url: about
     weight: 10
   - name: Road Map
     url: roadmap
     weight: 20
   - name: People
-    url: people
+    url: pages/roadmap
     weight: 30
   - name: Contributing
-    url: contributing
+    url: pages/roadmap
     weight: 40
   - name: FAQs
-    url: faqs
+    url: pages/roadmap
     weight: 50
   - name: More Information
-    url: information
+    url: pages/roadmap
     weight: 60
-  - name: Publications
-    url: publication
+  - name: Blog
+    url: blog
     weight: 70
   - name: Contact us
-    url: contact
+    url: pages/roadmap
     weight: 80
